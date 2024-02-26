@@ -16,8 +16,7 @@ When commiting the message should be in the following format: <type> <summary>
 <summary> should be a short summary of what changes were done. Don't capitalize the first letter. No dot (.) at the end
 <link> The last sentance should link the commit to the workitem it corresponds with in azure DevOps. 
    Regular link to work item: include AB#{Id}
-   Done with work item: include [fix, fixes, fixed] AB#{Id}. This should preferably be included in pull requests when a should be merged. 
-   \n
+   Done with work item: include [fix, fixes, fixed] AB#{Id}. This should preferably be included in pull requests when a should be merged.\
 
 
 
