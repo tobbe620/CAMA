@@ -17,8 +17,7 @@ When commiting the message should be in the following format: <type> <summary>
 <link> The last sentance should link the commit to the workitem it corresponds with in azure DevOps. 
    Regular link to work item: include AB#{Id}
    Done with work item: include [fix, fixes, fixed] AB#{Id}. This should preferably be included in pull requests when a should be merged. 
-
-
+   \n
 
 
 
@@ -30,7 +29,7 @@ When commiting the message should be in the following format: <type> <summary>
 2. `python3 -m venv .venv`
 
 3. Linux/Git Bash: `source .venv/bin/activate`\
-   Windows/Powershell: `.venv/Scripts/activate`
+   Windows/Powershell: `.venv/Scripts/activate` (lol testar WSL)
 
 4. Installera python dependencies `python3 -m pip install -r requirements.txt`
 
