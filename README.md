@@ -28,7 +28,7 @@ When commiting the message should be in the following format: <type> <summary>
 2. `python3 -m venv .venv`
 
 3. Linux/Git Bash: `source .venv/bin/activate`\
-   Windows/Powershell: `.venv/Scripts/activate` (lol testar WSL)
+   Windows/Powershell: `.venv/Scripts/activate`
 
 4. Installera python dependencies `python3 -m pip install -r requirements.txt`
 
